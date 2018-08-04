@@ -5,6 +5,8 @@ Please see the PR for the detail. https://github.com/FumiyaShibusawa/sample-app-
 
 ## How to reproduce
 
+First, you need to have mongodb installed in your machine.
+
 ```
 $ git clone git@github.com:FumiyaShibusawa/sample-app-mongoid-cache.git
 $ cd sample-app-mongoid-cache
